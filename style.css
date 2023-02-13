@@ -51,7 +51,7 @@ body{
     max-width: 100%;
 }
 .card h1{
-    font-size: 25px;
+    font-size: 23px;
     font-family: var(--ff);
     font-weight: var(--fw-bold);
     color: var(--clr-Darkblue);
